@@ -237,3 +237,9 @@ export const latexLibraryText = {
   [ESPANOL] : "Formateado para paquetes LaTeX gb4e y gb4e-modified:",
   [FRANCAIS] : "Formaté pour les packages LaTeX gb4e et gb4e-modified:",
 };
+
+export const footerText = {
+  [ENGLISH]: "This website is powered by ",
+  [ESPANOL]: "Este sitio web funciona con ",
+  [FRANCAIS]: "Ce site Web est alimenté par ",
+};
